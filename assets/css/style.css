@@ -24,7 +24,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Century Gothic", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: url("../img/uc.png");
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -428,7 +428,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 30px 0;
+  padding: 5px 0;
   overflow: hidden;
 }
 
@@ -472,7 +472,7 @@ section {
   margin-top: 73px;
   text-align: center;
   background: #5fcf80;
-  padding: 30px 0;
+  padding: 15px 0;
   color: #fff;
 }
 @media (max-width: 992px) {
